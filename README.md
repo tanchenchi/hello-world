@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-dasdAD
+hello,this is my first repository.
